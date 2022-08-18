@@ -18,8 +18,8 @@ export default function Home() {
           >
             <div className="mb-4">
               <label
-                htmlFor=""
-                for="restSearch"
+                htmlFor="restSearch"
+                // for="restSearch"
                 className="block text-sm font-bold mb-2"
               >
                 Image Search
