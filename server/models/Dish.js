@@ -13,7 +13,7 @@ const dishSchema = new Schema(
       type: String,
     },
     image: {
-      type: String,
+      type: Image,
     },
   },
   {
